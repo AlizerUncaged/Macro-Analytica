@@ -14,7 +14,6 @@ function ProgressBars(props) {
 
 function HealthCareWorkers() {
     return <div className="container-fluid">
-        <div className="mt-2 mb-2"><h3><XDiamondFill></XDiamondFill> View By</h3></div>
         <div class="d-flex align-items-center flex-row bd-highlight">
             <div className=""><strong>View By</strong></div>
             <div class="">
